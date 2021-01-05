@@ -1,0 +1,7 @@
+- ~~Test new methods in model~~
+- ~~Test new methods in controller~~
+- ~~Test actionlisteners?~~
+- ~~Test svg and textual view~~
+- update README
+- JAVADOC
+- ~~Figure out how the JAR should read file paths~~
